@@ -47,6 +47,7 @@ Trigger reports
 A printable report of all student records.
 Launched via a button on the form using a VBA macro.
 
+    
 Private Sub Form_Load
 
     MsgBox "Welcome to the Data Entry Form"
